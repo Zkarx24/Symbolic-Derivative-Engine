@@ -32,3 +32,7 @@ El desarrollo de este motor tiene como objetivo demostrar competencia en:
 1. Clonar el repositorio:
    ```bash
    git clone <https://github.com/Zkarx24/Symbolic-Derivative-Engine/>
+### Ejecución
+1. Ejecutar el script llamado sde.py en python
+   <img width="699" height="486" alt="image" src="https://github.com/user-attachments/assets/66275f6b-7591-4eb7-a8c6-69caca112601" />
+
